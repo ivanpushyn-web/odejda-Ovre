@@ -1,7 +1,11 @@
 ---
 completed: false
-last_completed_step: 0
-started_at: null
+last_completed_step: 9
+started_at: 2026-09-06
+os: windows
+project_type: commercial
+stack: other:tilda (сайт ovre.by уже работает на Tilda Store)
+project_idea: "Магазин женской одежды (костюмная группа + вечерние образы), ЦА женщины 27-40 с высоким средним чеком, продажи через Instagram и сайт"
 ---
 
 # AUTOPILOT - онбординг пользователя
